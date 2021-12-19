@@ -1,0 +1,23 @@
+{
+  "name": "roulette_game",
+  "version": "1.0.0",
+  "description": "Creating a Roulette Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sa616473/roulette_game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sa616473/roulette_game/issues"
+  },
+  "homepage": "https://github.com/sa616473/roulette_game#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
